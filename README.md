@@ -13,7 +13,6 @@
 
 ```text
 identity   IZMYSH
-origin     Mysh → Izmysh
 approach   curiosity → clarity → useful things
 ```
 
